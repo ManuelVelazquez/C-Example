@@ -27,7 +27,7 @@ namespace Selenium
 
             openWith.Add(1, "Mannuel");
             openWith.Add(2, "Jose");
-
+            openWith.Add(10, "master");
 
             function();
             
