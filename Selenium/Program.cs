@@ -27,7 +27,10 @@ namespace Selenium
 
             openWith.Add(1, "Mannuel");
             openWith.Add(2, "Jose");
+            openWith.Add(3, "New Branch");
+            openWith.Add(4, "New Branch2");
             openWith.Add(10, "master");
+
 
             function();
             
